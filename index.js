@@ -42,7 +42,7 @@ function functionName(names, target) {
 
 
 // 3. 함수 선언
-function myFunc(){
+function myFunc() {
   // do something...
 }
 var myFunc = function() {
